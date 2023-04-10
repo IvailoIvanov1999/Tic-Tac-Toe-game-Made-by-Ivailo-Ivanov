@@ -7,7 +7,9 @@ You have to fill the free spaces on the board.If on column or line ,or diagonals
     on theese lines ,you win ,in other case you lose.
 If neither player has won ,or lost ,then the game is 'Draw'.
 
-![Screenshot_14](https://user-images.githubusercontent.com/122826150/230943922-e9bba8ff-86db-488c-9f04-3de4190237b6.png)
+![TIC](https://user-images.githubusercontent.com/122826150/230944898-92fac0a7-e684-4795-9213-b7bc0ef10809.png)
+![tac](https://user-images.githubusercontent.com/122826150/230944927-63507a00-795c-458c-b5ca-fb2d415f8905.png)
+
 
 
 My game running in Replit :     https://replit.com/@IvailoIvanov199/tic-tac-toe
