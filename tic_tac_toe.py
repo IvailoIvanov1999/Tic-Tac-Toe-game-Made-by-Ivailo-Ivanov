@@ -41,7 +41,7 @@ def tic_tac_toe_field():
 
 def entry():
     print(typewriter("   ――――――――――――――――――――――――――――"))
-    print(typewriter("   | Hello! Welcome in my tic-tac-toe game ! :) |"))
+    print(typewriter("   | Hello! Welcome in my Tic-Tac-Toe game ! :) |"))
     print(typewriter("   |         Made by Ivailo Ivanov              |"))
     print(typewriter("   ――――――――――――――――――――――――――――"))
     print()
